@@ -7,7 +7,9 @@ Small quiz game in a box I wrote on a tech camp back in 2022.
 
 A liquid crystal display is used to prompt the user series of multiple choice questions. Using four buttons the user can guess the right answer. The game also features a leaderboard. It's basically [Kahoot](https://kahoot.com/) packed inside a plastic box.
 
-3D print files kan be found i [print](/print/) directory.
+3D print files can be found in [print](/print/) directory.
+
+![The plastic box in question](/media/image.png)
 
 ## Installation
 
