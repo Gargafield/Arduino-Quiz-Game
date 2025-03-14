@@ -1,0 +1,5 @@
+{
+    "sketch": "Kahoot.ino",
+    "port": "COM3",
+    "board": "arduino:avr:uno"
+}
